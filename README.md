@@ -29,8 +29,6 @@ bnscup2023で制作した3Dアクションゲームです。二人で作成し�
 	攻撃についても同様に攻撃方向に斬撃エフェクトを描画する。
 
 
-{"message":"referrer error"}
 
-https://github.com/NakakiJunto/BNScup2023/assets/86274776/d0287cc7-92bf-4234-9ca6-5adcf4922cb3.mp4
-
+https://github.com/NakakiJunto/BNScup2023/assets/86274776/1bff00c6-8ad8-4e9c-ba91-b144c81cb745
 
