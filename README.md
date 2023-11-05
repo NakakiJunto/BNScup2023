@@ -9,9 +9,8 @@ bnscup2023で制作した3Dアクションゲームです。二人で作成し�
 
 [プレイ方法]
 　GithubからVisual Studioのソリューションをクローンして、ビルドしてください。
-		https://github.com/Minogame321/ItemRescue
-		　ビルドしてプレイする際にはBulletPhysicsを各自ダウンロードしてパスを通してください
-  			参考：https://qiita.com/tas9n/items/522312d04013f3512f33
+ビルドしてプレイする際にはBulletPhysicsを各自ダウンロードしてパスを通してください
+参考：https://qiita.com/tas9n/items/522312d04013f3512f33
 
 タイトルが出てきたら、START BUTTONをクリック。そしたら、一番左の石の上に乗るとゲームスタート。
 味方キャラがお化けから逃げるので以下の行動でお化けに対抗しよう。
